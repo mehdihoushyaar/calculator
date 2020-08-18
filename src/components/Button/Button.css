@@ -1,0 +1,20 @@
+.btn {
+  width: 80px;
+  height: 60px;
+  font-size: 20px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0.5%;
+}
+.btn:hover{background: #e3e3e3}
+.operator {
+  background: #fb2222;
+  color: #fff;
+}
+.operator:hover{
+  background: #d52222;
+}
+.clear {
+	width: 99%;
+}
